@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @vwong175
+- 👋 Hi, I’m Valerie Wong
 - 👀 I’m interested in the intersection of art and technology!
 - 🌱 I’m currently learning R
 - 📫 Email me at vwong27@buffalo.edu if you want to reach out
