@@ -5,7 +5,7 @@
 - 👀 I’m interested in the intersection of art and technology!
 - 🌱 I’m currently learning R
 - ✈️ My interests and hobbies include traveling, eating new foods, taking pictures, and making art
-- 📫 Email me at vwong27@buffalo.edu if you want to reach out
+- 📫 Email me at vwong27@buffalo.edu if you want to reach out about anything technology, art, or cute animals related!
 
 <!---
 vwong175/vwong175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
