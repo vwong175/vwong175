@@ -5,7 +5,7 @@
 - 👀 I’m interested in the intersection of art and technology!
 - 🌱 I’m currently learning R
 - ✈️ My interests and hobbies include traveling, eating new foods, taking pictures, and making art
-- 📫 Email me at vwong27@buffalo.edu if you want to reach out about anything technology, art, or cute animals related!
+- 📫 Email me at vwong27@buffalo.edu or connect with me on linkedIn: https://www.linkedin.com/in/valeriewong02/ if you want to reach out about anything technology, art, or cute animals related!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vwong175&show_icons=true&theme=onedark)
 
