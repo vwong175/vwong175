@@ -5,11 +5,11 @@
 - 👀 I’m interested in the intersection of art and technology!
 - 🌱 I’m currently learning R
 - ✈️ My interests and hobbies include traveling, eating new foods, taking pictures, and making art
-- 📫 Email me at vwong27@buffalo.edu or connect with me on linkedIn: https://www.linkedin.com/in/valeriewong02/ if you want to reach out about anything technology, art, or cute animals related!
+- 📫 Connect with me on linkedIn: https://www.linkedin.com/in/valeriewong02/ if you want to reach out about anything technology, art, or cute animals related!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vwong175&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vwong175&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vwong175&layout=compact&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 vwong175/vwong175 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
