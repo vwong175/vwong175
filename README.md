@@ -7,7 +7,7 @@
 - ✈️ My interests and hobbies include traveling, eating new foods, taking pictures, and making art
 - 📫 Connect with me on linkedIn: https://www.linkedin.com/in/valeriewong02/ if you want to reach out about anything technology, art, or cute animals related!
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vwong175&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="Valerie's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwong175&layout=compact&theme=onedark&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=vwong175&show_icons=true&theme=onedark&hide_border=true" alt="Valerie's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vwong175&layout=compact&theme=onedark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!---
